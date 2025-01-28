@@ -11,7 +11,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #acbaca;
+    background: conic-gradient(from 180deg, #152b4a, #29538d, #54626f, #e91e63, #54626f, #29538d, #152b4a);
     overflow: hidden;
 }
 
